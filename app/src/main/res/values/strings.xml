@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AddressBook</string>
+    <string name="addressBook_label">Contacts</string>
+    <string name="contact_label">Contact Details</string>
+</resources>
